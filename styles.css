@@ -1,6 +1,8 @@
+
 #image {
+    background-image: url('https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg');
     margin: auto;
-    height: 400px;
+    height: 500px;
 }
 
 #photo {
@@ -9,6 +11,17 @@
     margin: auto;
 }
 
+section {
+    margin-top: 50px;
+}
 
+.nav-link, .excerpt {
+    color: white;
+}
 
+.excerpt {
+    max-width: 600px;
+    text-align: center;
+    margin: auto;
+}
 
