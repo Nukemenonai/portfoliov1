@@ -25,3 +25,16 @@ section {
     margin: auto;
 }
 
+.slider-post h2 {
+    font-size: 24px;
+    color: #212529;
+}
+
+section h2 {
+    text-align: center;
+}
+
+.icons {
+    margin-top: 30px;
+    text-align: center;
+}
