@@ -34,7 +34,16 @@ section h2 {
     text-align: center;
 }
 
-.icons {
+.icons, .stack {
     margin-top: 30px;
     text-align: center;
+}
+
+
+.icons i {
+    padding: 30px;
+}
+
+.footer {
+    background-color: teal;
 }
