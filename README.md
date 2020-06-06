@@ -1,7 +1,7 @@
 # Portfolio
-## Work in progress
+## (under development)
 
-check my portfolio at:
+see it at:
 
 <https://nukemenonai.github.io/portfoliov1/index.html>
 
